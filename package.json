@@ -1,0 +1,23 @@
+{
+  "name": "tailwindcss-font-variant-numeric",
+  "version": "0.1.0",
+  "description": "Plugin for Tailwind CSS to create utility classes for font-variant-numeric",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philippbosch/tailwindcss-font-variant-numeric.git"
+  },
+  "keywords": [
+    "tailwindcss",
+    "font-variant-numeric"
+  ],
+  "author": "Philipp Bosch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/philippbosch/tailwindcss-font-variant-numeric/issues"
+  },
+  "homepage": "https://github.com/philippbosch/tailwindcss-font-variant-numeric#readme"
+}
