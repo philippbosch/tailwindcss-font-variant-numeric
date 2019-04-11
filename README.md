@@ -75,10 +75,6 @@ By default, this plugin generates the following utilities:
 .numeric-stacked-fractions {
   font-variant-numeric: stacked-fractions;
 }
-
-.numeric-tabular-nums-slashed-zero {
-  font-variant-numeric: tabular-nums slashed-zero;
-}
 ```
 
 ## Customization
@@ -102,6 +98,14 @@ module.exports = {
   }
   // …
 };
+```
+
+This would generate the following utility class:
+
+```css
+.numeric-tabular-slashed {
+  font-variant-numeric: tabular-nums slashed-zero;
+}
 ```
 
 ## License
