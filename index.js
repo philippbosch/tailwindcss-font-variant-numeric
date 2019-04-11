@@ -1,6 +1,7 @@
 module.exports = function fontVariantNumeric({
   addUtilities,
-  config
+  config,
+  e
 }) {
   const values = config('theme.fontVariantNumeric', {
     'normal': 'normal',
