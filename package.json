@@ -1,6 +1,6 @@
 {
   "name": "tailwindcss-font-variant-numeric",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Plugin for Tailwind CSS to create utility classes for font-variant-numeric",
   "main": "index.js",
   "scripts": {
