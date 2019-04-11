@@ -3,6 +3,10 @@
 A plugin for [Tailwind CSS](https://www.tailwindcss.com/) to create
 utility classes for [`font-variant-numeric`](https://developer.mozilla.org/en-US/docs/Web/CSS/font-variant-numeric).
 
+## Requirements
+
+This plugin requires **Tailwind CSS v1.x**.
+
 ## Installation
 
 ```shell
